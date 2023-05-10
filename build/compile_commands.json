@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/lihan/Dev/CPP/Demarcate/build",
+  "command": "/usr/bin/g++ -isystem /usr/local/include/opencv4 -g -o CMakeFiles/pro.dir/main.cpp.o -c /home/lihan/Dev/CPP/Demarcate/main.cpp",
+  "file": "/home/lihan/Dev/CPP/Demarcate/main.cpp",
+  "output": "CMakeFiles/pro.dir/main.cpp.o"
+}
+]

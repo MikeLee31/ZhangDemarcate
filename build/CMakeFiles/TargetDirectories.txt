@@ -1,0 +1,3 @@
+/home/lihan/Dev/CPP/Demarcate/build/CMakeFiles/pro.dir
+/home/lihan/Dev/CPP/Demarcate/build/CMakeFiles/edit_cache.dir
+/home/lihan/Dev/CPP/Demarcate/build/CMakeFiles/rebuild_cache.dir
