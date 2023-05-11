@@ -8,7 +8,7 @@
 using namespace cv;
 using namespace std;
 // 初始化参数
-int image_show_time = 10;
+int image_show_time = 5000;
 int image_count=10;  
 string read_filePath = "../images/2/";
 Size image_size;  
